@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibfavas  
+- 👋 Hi, I’m Mohammad Favas S.  
 - 👀 I’m interested in Android Development, Web Development & Game Development.  
 - 🌱 I’m currently learning Kotlin, C#, React Native & Unity.
 - 💞️ I’m looking to collaborate on Android and Web Development projects, especially ones that involve innovative solutions.  

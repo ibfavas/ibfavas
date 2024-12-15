@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Favas S.  
 - 👀 I’m interested in Android Development, Web Development & Game Development.  
-- 🌱 I’m currently learning Kotlin, C#, React Native & Unity.
+- 🌱 I’m currently learning Kotlin, C# & Unity.
 - 💞️ I’m looking to collaborate on Android and Web Development projects, especially ones that involve innovative solutions.  
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/mohammad-favas-s-58a426327), [Email](mailto:favassalam88@example.com)  
 - 😄 Pronouns: He/Him  

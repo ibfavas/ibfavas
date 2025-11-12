@@ -1,7 +1,5 @@
 👋 Hi, I’m Mohammad Favas S.
 
-![tryhackme stats](https://raw.githubusercontent.com/ibfavas/ibfavas/master/.gitkeep/assets/thm_propic.png)
-
 🧠 I’m a cybersecurity enthusiast transitioning from software development to ethical hacking and defense strategies.
 
 🔒 I’m currently pursuing the CICSA course for the EC-Council Certified Security Analyst (CSA) certification.

@@ -1,6 +1,6 @@
 👋 Hi, I’m Mohammad Favas S.
 
-![tryhackme stats](https://raw.githubusercontent.com/ibfavas/ibfavas/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/ibfavas/ibfavas/master/.gitkeep/assets/thm_propic.png)
 
 🧠 I’m a cybersecurity enthusiast transitioning from software development to ethical hacking and defense strategies.
 

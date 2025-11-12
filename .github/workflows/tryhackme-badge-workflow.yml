@@ -10,6 +10,9 @@ jobs:
     name: Update this repo's TryHackMe badge
     runs-on: ubuntu-latest
     steps:
+
+      - name: Ensure assets folder exists
+        run: mkdir -p assets
       - uses: actions/checkout@v2
       - uses: p4p1/tryhackme-badge-workflow@main
         with:

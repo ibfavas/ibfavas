@@ -31,15 +31,13 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-
-![BurpSuite](https://img.shields.io/badge/BurpSuite-WebTesting-orange?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-Exploitation-blue?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-Recon-green?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-TrafficAnalysis-blue?style=for-the-badge)
-![SQLMap](https://img.shields.io/badge/SQLMap-Automation-red?style=for-the-badge)
-![Nikto](https://img.shields.io/badge/Nikto-Scanner-yellow?style=for-the-badge)
-![Hashcat](https://img.shields.io/badge/Hashcat-Cracking-purple?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/BurpSuite-Web%20Testing-FF6633?style=flat&logo=burpsuite&logoColor=white" style="margin:4px;"/>
+  <img src="https://img.shields.io/badge/Metasploit-Exploitation-2E2E2E?style=flat&logo=metasploit&logoColor=white" style="margin:4px;"/>
+  <img src="https://img.shields.io/badge/Nmap-Recon-214478?style=flat&logo=gnometerminal&logoColor=white" style="margin:4px;"/>
+  <img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?style=flat&logo=wireshark&logoColor=white" style="margin:4px;"/>
+  <img src="https://img.shields.io/badge/SQLMap-Automation-CC2927?style=flat&logo=sqlite&logoColor=white" style="margin:4px;"/>
+  <img src="https://img.shields.io/badge/Nikto-Scanner-6C757D?style=flat&logo=kalilinux&logoColor=white" style="margin:4px;"/>
+  <img src="https://img.shields.io/badge/Hashcat-Cracking-5A0FC8?style=flat&logo=hashnode&logoColor=white" style="margin:4px;"/>
 </p>
 
 ---

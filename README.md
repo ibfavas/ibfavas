@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm MOHAMMAD FAVAS S</h1>
 <h3 align="center">🔐 Cybersecurity Researcher | Bug Bounty Hunter | VAPT Enthusiast</h3>
 
+<h4 align="center">📍 Kerala, India • Focus: Web Exploitation & Bug Bounty Hunting</h4>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Security+Researcher;Bug+Bounty+Hunter;VAPT+Learner;SOC+Analyst+in+Progress" />
+  <i>Breaking web applications, one assumption at a time.</i>
 </p>
 
 ---
@@ -10,7 +12,6 @@
 ## 👨‍💻 About Me
 
 - 🔐 Cybersecurity enthusiast focused on **Web & Network Security**
-- 🧠 Currently pursuing **Certified SOC Analyst (CSA)**
 - 🧪 Strong hands-on experience with **labs, attack simulations & system hardening**
 - ⚡ Interested in **SSRF, IDOR, RCE, Privilege Escalation**
 - 🧩 Approach: **Understand systems deeply → break them → secure them**
@@ -97,19 +98,23 @@
 
 <p align="center">
   <a href="https://github.com/ibfavas">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-ibfavas-black?style=flat&logo=github&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/ibfavas">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-ibfavas-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://x.com/ibfavas">
+    <img src="https://img.shields.io/badge/X-@ibfavas-black?style=flat&logo=x&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://instagram.com/ibfavas">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram">
+    <img src="https://img.shields.io/badge/Instagram-@ibfavas-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:favassalam88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://twitter.com/ibfavas">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 

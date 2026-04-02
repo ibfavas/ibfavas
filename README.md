@@ -1,62 +1,72 @@
 <h1 align="center">Hi 👋, I'm MOHAMMAD FAVAS S</h1>
-<h3 align="center">🔐 Cybersecurity Enthusiast | Bug Bounty Hunter | Security Researcher</h3>
+<h3 align="center">🔐 Cybersecurity Researcher | Bug Bounty Hunter | VAPT Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Bug+Bounty+Hunter;Web+Security+Researcher;API+Security+Enthusiast;Always+Learning+New+Exploits" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Security+Researcher;Bug+Bounty+Hunter;VAPT+Learner;SOC+Analyst+in+Progress" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔍 Focused on **Web Application Security & Bug Bounty**
-- 🧠 Currently learning **Advanced Exploitation & Red Teaming**
-- ⚡ Interested in **SSRF, RCE, IDOR, Logic Bugs**
-- 🎯 Goal: Become a **Top Security Researcher**
+
+- 🔐 Cybersecurity enthusiast focused on **Web & Network Security**
+- 🧠 Currently pursuing **Certified SOC Analyst (CSA)**
+- 🧪 Strong hands-on experience with **labs, attack simulations & system hardening**
+- ⚡ Interested in **SSRF, IDOR, RCE, Privilege Escalation**
+- 🧩 Approach: **Understand systems deeply → break them → secure them**
 
 ---
 
-## ⚒️ What I Work On
-- 🔐 Bug Bounty Hunting (HackerOne / Bugcrowd)
-- 🧪 Writing PoCs & Exploit Chains
-- 🌐 Web App & API Pentesting
-- ⚙️ Recon Automation & Custom Tools
+## ⚒️ Core Expertise
+
+- 🌐 Web Application Security Testing (VAPT)
+- 🔍 Reconnaissance & Attack Surface Mapping
+- 🧪 Exploit Development & PoC Creation
+- 🛡️ Linux System Hardening & Secure Configurations
+- 📡 Network Analysis & Traffic Inspection
 
 ---
 
-## 🛠️ Tools & Tech Stack
+## 🛠️ Tools & Technologies
 
 <p align="center">
 
-![Linux](https://img.shields.io/badge/Linux-Kali-blue?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-Scripting-yellow?style=for-the-badge&logo=python)
-![Burp](https://img.shields.io/badge/BurpSuite-Testing-orange?style=for-the-badge)
+![BurpSuite](https://img.shields.io/badge/BurpSuite-WebTesting-orange?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-Exploitation-blue?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-Recon-green?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
+![Wireshark](https://img.shields.io/badge/Wireshark-TrafficAnalysis-blue?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-Automation-red?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-Scanner-yellow?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-Cracking-purple?style=for-the-badge)
 
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 🧪 Security Labs & Research
 
-### 🚀 Recon Automation Tool
-- 🔍 Automates subdomain enumeration & scanning
-- ⚡ Integrates tools like **Subfinder, Amass, httpx**
-- 🧠 Helps speed up bug bounty workflow
-
----
-
-### 🧪 Web Exploit PoC Collection
-- 📂 Real-world vulnerability PoCs
-- 💥 Covers SSRF, IDOR, RCE chains
-- 📖 Includes detailed explanations
+### 🔐 Home Lab – Attack & Defense Environment
+- Built a **virtualized lab using Hyper-V**
+- Simulated attacker (Kali) vs vulnerable target (Metasploitable2)
+- Configured **network isolation & segmentation**
+- Applied **system hardening (SSH keys, UFW rules, non-root setup)**
 
 ---
 
-### 🔐 API Security Testing Toolkit
-- 🛠️ Custom scripts for API fuzzing
-- 🔍 Detects auth bypass & misconfigs
-- ⚡ Built for speed & automation
+### 🏰 Infinity Castle – Vulnerable Machine
+- Designed vulnerable environment for **real-world exploitation practice**
+- 🔍 Web exploitation using **Burp Suite**
+- 🔑 Credential extraction via **Hashcat & Steganography**
+- ⚡ Practiced **privilege escalation & enumeration techniques**
+
+---
+
+## 🎯 Current Focus
+
+- 🔍 Advanced **Bug Bounty Hunting**
+- ⚡ Exploit chaining (multi-step vulnerabilities)
+- 🧠 Deep dive into **API Security & Logic Flaws**
+- 🛡️ Blue Team basics (SOC workflows & detection)
 
 ---
 
@@ -77,11 +87,11 @@
 
 ---
 
-## 🧠 Labs & Certifications
+## 🧠 Certifications & Learning
 
-- 🧪 TryHackMe
-- 🔐 Certified SOC Analyst (CSA)
-- 📜 Certified in Cyber Security
+- 🛡️ Certified SOC Analyst (CSA) — *In Progress*
+- 🔐 Certified in Cybersecurity (ISC2)
+- 🧪 TryHackMe – Jr Penetration Tester Path
 
 ---
 
@@ -94,5 +104,6 @@
 
 ---
 
-## ⚡ Fun Fact
-> I break things to understand how they work… then sometimes fix them.
+## ⚡ Mindset
+
+> "Security is not about tools. It's about understanding systems well enough to break assumptions."

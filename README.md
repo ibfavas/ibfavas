@@ -97,25 +97,11 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/ibfavas">
-    <img src="https://img.shields.io/badge/GitHub-ibfavas-black?style=flat&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/ibfavas">
-    <img src="https://img.shields.io/badge/LinkedIn-ibfavas-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/ibfavas">
-    <img src="https://img.shields.io/badge/X-@ibfavas-black?style=flat&logo=x&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/ibfavas">
-    <img src="https://img.shields.io/badge/Instagram-@ibfavas-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:favassalam88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://github.com/ibfavas"><img src="https://img.shields.io/badge/GitHub-ibfavas-black?style=flat&logo=github&logoColor=white" style="margin: 4px;"/></a>
+  <a href="https://linkedin.com/in/ibfavas"><img src="https://img.shields.io/badge/LinkedIn-ibfavas-0A66C2?style=flat&logo=linkedin&logoColor=white" style="margin: 4px;"/></a>
+  <a href="https://x.com/ibfavas"><img src="https://img.shields.io/badge/X-@ibfavas-black?style=flat&logo=x&logoColor=white" style="margin: 4px;"/></a>
+  <a href="https://instagram.com/ibfavas"><img src="https://img.shields.io/badge/Instagram-@ibfavas-E4405F?style=flat&logo=instagram&logoColor=white" style="margin: 4px;"/></a>
+  <a href="mailto:favassalam88@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" style="margin: 4px;"/></a>
 </p>
 
 ---

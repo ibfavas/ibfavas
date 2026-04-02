@@ -80,15 +80,15 @@
 ## 🧠 Labs & Certifications
 
 - 🧪 TryHackMe
-- 🔐 HackTheBox
-- 📜 eJPT / PNPT / (Add yours here)
+- 🔐 Certified SOC Analyst (CSA)
+- 📜 Certified in Cyber Security
 
 ---
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ibfavas&theme=radical&no-frame=true&margin-w=10"/>
 </p>
 
 ---

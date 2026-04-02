@@ -45,19 +45,26 @@
 
 ## 🧪 Security Labs & Research
 
-### 🔐 Home Lab – Attack & Defense Environment
-- Built a **virtualized lab using Hyper-V**
-- Simulated attacker (Kali) vs vulnerable target (Metasploitable2)
-- Configured **network isolation & segmentation**
-- Applied **system hardening (SSH keys, UFW rules, non-root setup)**
+### 🔐 Virtualized Attack & Defense Lab
+- Built a **multi-node lab using Hyper-V**
+- Simulated real-world attack scenarios (Kali vs Metasploitable2)
+- Configured **network isolation to prevent traffic leakage**
+- Implemented **system hardening (SSH keys, UFW, non-root access)**
 
 ---
 
-### 🏰 Infinity Castle – Vulnerable Machine
-- Designed vulnerable environment for **real-world exploitation practice**
-- 🔍 Web exploitation using **Burp Suite**
-- 🔑 Credential extraction via **Hashcat & Steganography**
-- ⚡ Practiced **privilege escalation & enumeration techniques**
+### 🏰 Vulnerable Machine Development (Infinity Castle)
+- Designed intentionally vulnerable environment for **hands-on exploitation**
+- Practiced **web attacks using Burp Suite (interception & manipulation)**
+- Integrated **credential extraction challenges (Hashcat, Steganography)**
+- Simulated **privilege escalation paths and misconfigurations**
+
+---
+
+### 🛡️ System Hardening & Security Practices
+- Applied **Linux system hardening techniques**
+- Secured environments using **firewall rules (UFW)**
+- Configured **secure authentication mechanisms (SSH key-based access)**
 
 ---
 
@@ -67,15 +74,6 @@
 - ⚡ Exploit chaining (multi-step vulnerabilities)
 - 🧠 Deep dive into **API Security & Logic Flaws**
 - 🛡️ Blue Team basics (SOC workflows & detection)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibfavas&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibfavas&theme=radical" height="165"/>
-</p>
 
 ---
 
@@ -98,8 +96,21 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/ibfavas"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/ibfavas"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/ibfavas">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://linkedin.com/in/ibfavas">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://instagram.com/ibfavas">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram">
+  </a>
+  <a href="mailto:favassalam88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://twitter.com/ibfavas">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter">
+  </a>
 </p>
 
 ---

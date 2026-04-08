@@ -86,7 +86,7 @@
 
 ## 🧠 Certifications & Learning
 
-- 🛡️ Certified SOC Analyst (CSA) — *In Progress*
+- 🛡️ Certified SOC Analyst (CSA)
 - 🔐 Certified in Cybersecurity (ISC2)
 - 🧪 TryHackMe – Jr Penetration Tester Path
 

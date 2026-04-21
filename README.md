@@ -42,6 +42,17 @@
 
 ---
 
+## 💻 Open Source Tools
+
+### 🚀 Peelr: Lightweight JavaScript Scanner
+- Built a **lightweight JS scanner** in **Go** to optimize local recon and faster triage.
+- Identifies **hardcoded secrets, risky client-side sinks, prototype pollution patterns, and GraphQL clues**.
+- Maps basic **source-to-sink flows** and features both a **CLI and local Web UI**.
+- Developed utilizing *only* the standard library for maximum speed and zero-dependency execution.
+- 🔗 **[Check out Peelr on GitHub](https://github.com/ibfavas/peelr)**
+
+---
+
 ## 🧪 Security Labs & Research
 
 ### 🔐 Virtualized Attack & Defense Lab

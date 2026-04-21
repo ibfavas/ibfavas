@@ -49,7 +49,7 @@
 - Identifies **hardcoded secrets, risky client-side sinks, prototype pollution patterns, and GraphQL clues**.
 - Maps basic **source-to-sink flows** and features both a **CLI and local Web UI**.
 - Developed utilizing *only* the standard library for maximum speed and zero-dependency execution.
-- 🔗 **[Check out Peelr on GitHub](https://github.com/ibfavas/peelr)**
+- 🔗 **[Check out Peelr](https://github.com/ibfavas/peelr)**
 
 ---
 

@@ -6,6 +6,9 @@
 <p align="center">
   <i>Breaking web applications, one assumption at a time.</i>
 </p>
+<p align="center">
+  <i>![](https://komarev.com/ghpvc/?username=ibfavas&color=green)</i>
+</p>
 
 
 ---

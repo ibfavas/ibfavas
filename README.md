@@ -7,7 +7,7 @@
   <i>Breaking web applications, one assumption at a time.</i>
 </p>
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=ibfavas&color=green)
+  <img src="https://komarev.com/ghpvc/?username=ibfavas&style=for-the-badge&color=green" />
 </p>
 
 

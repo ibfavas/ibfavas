@@ -5,7 +5,6 @@
 
 <p align="center">
   <i>Breaking web applications, one assumption at a time.</i>
-  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ibfavas)
 </p>
 
 

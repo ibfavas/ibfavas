@@ -15,7 +15,6 @@
 `📍 Kerala, India` &nbsp;|&nbsp; `Web Exploitation` &nbsp;|&nbsp; `Threat Detection` &nbsp;|&nbsp; `System Hardening`
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=80&section=header)
-
 </div>
 
 ## 👤 About Me

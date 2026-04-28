@@ -14,7 +14,6 @@
 
 `📍 Kerala, India` &nbsp;|&nbsp; `Web Exploitation` &nbsp;|&nbsp; `Threat Detection` &nbsp;|&nbsp; `System Hardening`
 
-<img src="https://komarev.com/ghpvc/?username=ibfavas&style=for-the-badge&color=blueviolet" />
 
 </div>
 

@@ -24,7 +24,7 @@
 
 - 🎯 Certified SOC Analyst (CSA) with hands-on experience in threat detection, incident response, and vulnerability research
 - 🔬 Bug bounty researcher focused on **web application security** — SSRF, IDOR, RCE, logic flaws, and authentication bypasses
-- 🛠️ Builder of open-source security tooling and intentionally vulnerable lab environments
+- 🛠️ Likes to build open-source security tooling and intentionally vulnerable lab environments
 - 🐧 Deep Linux background — from kernel auditing and CIS hardening to custom distro setups
 - 🧠 Approach: **Understand systems deeply → trace assumptions → break them → document the chain**
 

@@ -97,6 +97,18 @@ Go · Bash · Docker · Compliance-as-Code
 
 ---
 
+  ### 🛰️ Threat Intel Aggregation & IOC Enrichment Pipeline
+
+  `Python` `SQLite` `Wazuh` `Docker` `AbuseIPDB` `VirusTotal` `OTX` `Detection Engineering`
+
+  - Built an automated CTI pipeline that ingests IOCs from **URLhaus**, **Feodo Tracker**, and **AlienVault OTX**
+  - Normalized IPs, domains, URLs, and hashes into a unified SQLite data model with deduplication, source merging, and `hit_count` tracking
+  - Designed a confidence scoring engine using **recency**, **source reputation**, and **cross-feed corroboration** to prioritize actionable indicators
+  - Enriched high-confidence IOCs with **AbuseIPDB**, **VirusTotal**, WHOIS, and ASN context while respecting API rate limits
+  - Exported high-confidence IPs/domains into **Wazuh CDB lists** and validated live detections with custom Wazuh rules, `wazuh-logtest`, and dashboard alerts
+
+---
+
 ### 🏰 Vulnerable Machine Development — Infinity Castle
 `Penetration Testing` `Hyper-V` `Burp Suite` `Hashcat` `Nmap` `Steganography`
 

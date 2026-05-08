@@ -83,7 +83,7 @@ Go · Bash · Docker · Compliance-as-Code
 - Implemented lightweight source-to-sink taint flow analysis to highlight potentially exploitable paths.
 - Designed a risk scoring engine (0-100) combining severity, confidence, and taint validation for prioritization.
 - Developed both a CLI pipeline tool and a local Web UI with filtering, diffing, and batch scanning.
-- 🔗 Check out Peelr (https://github.com/ibfavas/peelr)
+- 🔗 [Check out Peelr](https://github.com/ibfavas/peelr)
 ---
 
 ## 🧪 Security Labs & Research

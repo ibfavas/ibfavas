@@ -77,12 +77,13 @@ Go · Bash · Docker · Compliance-as-Code
 ## 💻 Open Source Tools
 
 ### 🚀 Peelr: Lightweight JavaScript Scanner
-- Built a **lightweight JS scanner** in **Go** to optimize local recon and faster triage.
-- Identifies **hardcoded secrets, risky client-side sinks, prototype pollution patterns, and GraphQL clues**.
-- Maps basic **source-to-sink flows** and features both a **CLI and local Web UI**.
-- Developed utilizing *only* the standard library for maximum speed and zero-dependency execution.
-- 🔗 **[Check out Peelr](https://github.com/ibfavas/peelr)**
 
+- Built a high-performance JavaScript scanner in Go using the standard library only for rapid recon and triage of large JS bundles.
+- Detected hardcoded secrets, XSS sinks, prototype pollution patterns, GraphQL endpoints, and exposed API paths.
+- Implemented lightweight source-to-sink taint flow analysis to highlight potentially exploitable paths.
+- Designed a risk scoring engine (0-100) combining severity, confidence, and taint validation for prioritization.
+- Developed both a CLI pipeline tool and a local Web UI with filtering, diffing, and batch scanning.
+- 🔗 Check out Peelr (https://github.com/ibfavas/peelr)
 ---
 
 ## 🧪 Security Labs & Research
@@ -90,10 +91,11 @@ Go · Bash · Docker · Compliance-as-Code
 ### 🛡️ Linux Hardening & SIEM Orchestration
 `Arch Linux` `Wazuh` `Auditd` `Docker` `CIS Benchmarks`
 
-- Remediated 100+ misconfigurations, elevating CIS Benchmark compliance from **26% → 83%**
-- Deployed a Docker-based Wazuh stack covering endpoint telemetry, FIM, and MITRE ATT&CK event mapping
-- Neutralized rootkit and lateral movement vectors via kernel module blacklisting and `noexec` filesystem restrictions
-- Engineered a high-fidelity auditd ruleset with **22,000+ rules** for granular syscall and privilege escalation visibility
+- Remediated 100+ security misconfigurations, improving CIS compliance from 26% → 83% on Arch Linux endpoints.
+- Deployed a Docker-based Wazuh SIEM for endpoint monitoring, File Integrity Monitoring, security monitoring, and MITRE ATT&CK-aligned detection.
+- Hardened the system attack surface through kernel module blacklisting, secure mount options such as noexec and nosuid, and sysctl network protections.
+- Implemented 22,000+ auditd rules to monitor system calls, privilege escalation, and kernel-level activity.
+- Enabled continuous Security Configuration Assessment, real-time alerting, and SOC-style triage for configuration drift and unauthorized changes.
 
 ---
 
@@ -101,11 +103,12 @@ Go · Bash · Docker · Compliance-as-Code
 
   `Python` `SQLite` `Wazuh` `Docker` `AbuseIPDB` `VirusTotal` `OTX` `Detection Engineering`
 
-  - Built an automated CTI pipeline that ingests IOCs from **URLhaus**, **Feodo Tracker**, and **AlienVault OTX**
-  - Normalized IPs, domains, URLs, and hashes into a unified SQLite data model with deduplication, source merging, and `hit_count` tracking
-  - Designed a confidence scoring engine using **recency**, **source reputation**, and **cross-feed corroboration** to prioritize actionable indicators
-  - Enriched high-confidence IOCs with **AbuseIPDB**, **VirusTotal**, WHOIS, and ASN context while respecting API rate limits
-  - Exported high-confidence IPs/domains into **Wazuh CDB lists** and validated live detections with custom Wazuh rules, `wazuh-logtest`, and dashboard alerts
+ - Built a CTI pipeline processing 50k-60k+ IOCs per run from multiple open-source feeds including URLhaus, Feodo Tracker, and AlienVault OTX.
+ - Normalized and deduplicated 55k+ indicators with cross-source correlation, log-correlation use cases, and a unified schema design.
+ - Designed a scoring system to prioritize 45k+ IOCs using recency, source trust, and corroboration.
+ - Enriched high-confidence indicators with AbuseIPDB and VirusTotal and exported 1.8k+ IPs and 1.6k+ domains to Wazuh CDB lists.
+ - Developed custom Wazuh SIEM rules mapped to MITRE ATT&CK (T1071) and validated detection through live alert generation.
+ - Automated pipeline execution every 6 hours using systemd timers.
 
 ---
 

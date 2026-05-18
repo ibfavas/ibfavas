@@ -78,11 +78,10 @@ Go · Bash · Docker · Compliance-as-Code
 
 ### 🚀 Peelr: Lightweight JavaScript Scanner
 
-- Built a high-performance JavaScript scanner in Go using the standard library only for rapid recon and triage of large JS bundles.
-- Detected hardcoded secrets, XSS sinks, prototype pollution patterns, GraphQL endpoints, and exposed API paths.
-- Implemented lightweight source-to-sink taint flow analysis to highlight potentially exploitable paths.
-- Designed a risk scoring engine (0-100) combining severity, confidence, and taint validation for prioritization.
-- Developed both a CLI pipeline tool and a local Web UI with filtering, diffing, and batch scanning.
+- Built a lightweight JavaScript reconnaissance and static-analysis tool in Go for rapid triage of large client-side bundles and exposed attack surfaces.
+- Implemented source-to-sink taint-flow analysis to identify dangerous flows involving eval, innerHTML, location, and DOM-based injection sinks.
+- Detected 8+ categories of high-risk client-side artifacts including hardcoded secrets, GraphQL endpoints, exposed API paths, prototype pollution patterns, and XSS-prone sinks.
+- Developed CLI and local Web UI workflows supporting filtering, diffing, batch analysis, and multi-target scanning across 50+ URLs per session.
 - 🔗 [Check out Peelr](https://github.com/ibfavas/peelr)
 ---
 
@@ -92,14 +91,14 @@ Go · Bash · Docker · Compliance-as-Code
 `Arch Linux` `Wazuh` `Auditd` `Docker` `CIS Benchmarks`
 
 - Remediated 100+ security misconfigurations, improving CIS compliance from 26% → 83% on Arch Linux endpoints.
-- Deployed a Docker-based Wazuh SIEM for endpoint monitoring, File Integrity Monitoring, security monitoring, and MITRE ATT&CK-aligned detection.
-- Hardened the system attack surface through kernel module blacklisting, secure mount options such as noexec and nosuid, and sysctl network protections.
+- Deployed a Docker-based Wazuh SIEM for endpoint monitoring, File Integrity Monitoring (FIM), security monitoring, and MITRE ATT&CK-aligned detection.
+- Hardened system attack surface via kernel module blacklisting, secure mount options (noexec, nosuid), and sysctl network protections.
 - Implemented 22,000+ auditd rules to monitor system calls, privilege escalation, and kernel-level activity.
-- Enabled continuous Security Configuration Assessment, real-time alerting, and SOC-style triage for configuration drift and unauthorized changes.
+- Enabled continuous Security Configuration Assessment (SCA), real-time alerting, and SOC-style triage for configuration drift and unauthorized changes.
 
 ---
 
-  ### 🛰️ Threat Intel Aggregation & IOC Enrichment Pipeline
+  ### 🛰️ Threat Intelligence Pipeline & Wazuh Detection Engineering
 
   `Python` `SQLite` `Wazuh` `Docker` `AbuseIPDB` `VirusTotal` `OTX` `Detection Engineering`
 
@@ -163,7 +162,7 @@ Go · Bash · Docker · Compliance-as-Code
 
 🔐 &nbsp;**Certified in Cybersecurity (CC)** — ISC2 &nbsp;`Feb 2026`
 
-🧪 &nbsp;**Jr Penetration Tester Learning Path** — TryHackMe &nbsp;`Feb 2026`
+🧪 &nbsp;**Docker Foundations Professional Certificate** — Docker & LinkedIn Learning &nbsp;`May 2026`
 
 </div>
 

@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ TechStack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>

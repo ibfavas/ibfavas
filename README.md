@@ -14,8 +14,7 @@
 
 `📍 Kerala, India` &nbsp;|&nbsp; `Web Exploitation` &nbsp;|&nbsp; `Threat Detection` &nbsp;|&nbsp; `System Hardening`
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=80&section=header)
-</div>
+---
 
 ## 👤 About Me
 
@@ -27,67 +26,60 @@
 
 ---
 
-## ⚒️ Core Expertise
-
-<div align="center">
-
-**`🌐 Web Application Security`**
-Manual VAPT · Burp Suite · Logic Flaw ID · Exploit Chaining · PoC Development
-
-**`🔍 Reconnaissance & Attack Surface Mapping`**
-Subfinder · httpx · Nuclei · ffuf · Waybackurls · GAU · SecLists
-
-**`📡 Network & Traffic Analysis`**
-Wireshark · Packet Inspection · TCP/IP · DNS · DHCP · HTTP/S
-
-**`🛡️ SIEM & Threat Detection`**
-Wazuh (Manager/Agent) · EDR · SCA · MITRE ATT&CK Mapping · FIM
-
-**`🐧 Linux Hardening & Infrastructure`**
-CIS Benchmarks · auditd · PAM · sysctl · Kernel Module Control · noexec Mounts
-
-**`⚙️ Scripting & Automation`**
-Go · Bash · Docker · Compliance-as-Code
-
-</div>
-
----
-
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BurpSuite-Web%20Testing-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-Exploitation-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-Recon-214478?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/SQLMap-Automation-CC2927?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nikto-Scanner-6C757D?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hashcat-Cracking-5A0FC8?style=for-the-badge&logo=hashnode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wazuh-SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-Tooling-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-Automation-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch%20Linux-System-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Caido-1E1E24?style=for-the-badge&logo=caido&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ffuf-002B36?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuclei-4B0082?style=for-the-badge&logo=protopie&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hashcat-5A0FC8?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/John%20The%20Ripper-4A4A4A?style=for-the-badge&logo=john-deere&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-37474F?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TryHackMe-9FE2BF?style=for-the-badge&logo=tryhackme&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-F7442E?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DNS-204385?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FF6600?style=for-the-badge&logo=mitre&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 ---
 
 ## 💻 Open Source Tools
 
-### 🚀 Peelr: Lightweight JavaScript Scanner
-
+### 🚀 [Peelr: Lightweight JavaScript Scanner](https://github.com/ibfavas/peelr)
 - Built a lightweight JavaScript reconnaissance and static-analysis tool in Go for rapid triage of large client-side bundles and exposed attack surfaces.
 - Implemented source-to-sink taint-flow analysis to identify dangerous flows involving eval, innerHTML, location, and DOM-based injection sinks.
 - Detected 8+ categories of high-risk client-side artifacts including hardcoded secrets, GraphQL endpoints, exposed API paths, prototype pollution patterns, and XSS-prone sinks.
 - Developed CLI and local Web UI workflows supporting filtering, diffing, batch analysis, and multi-target scanning across 50+ URLs per session.
-- 🔗 [Check out Peelr](https://github.com/ibfavas/peelr)
+
+---
+
+### ⚡ [NetPulse: Terminal Network Diagnostic HUD](https://github.com/ibfavas/netpulse)
+- Developed a zero-dependency, real-time network diagnostic telemetry HUD for Linux using Go and the Charmbracelet Bubble Tea framework.
+- Engineered a non-blocking asynchronous architecture using concurrent Goroutines to aggregate gateway, path diagnostic, interface I/O, and DNS matrix data with zero UI lag.
+- Implemented live Braille-based latency sparklines, automated low-level Linux packet parsing for interface throughput metrics, and unprivileged packet fallback routing.
+- Features multi-node WAN telemetry with BGP Autonomous System Number (ASN) mapping, full-screen interactive intermediate routing traceroute (MTR) charts, and headless daemon log modes.
+
 ---
 
 ## 🧪 Security Labs & Research
 
-### 🛡️ Linux Hardening & SIEM Orchestration
+### 🛡️ [Linux Hardening & SIEM Orchestration](https://github.com/ibfavas/arch-linux-wazuh-detection-lab)
 `Arch Linux` `Wazuh` `Auditd` `Docker` `CIS Benchmarks`
 
 - Remediated 100+ security misconfigurations, improving CIS compliance from 26% → 83% on Arch Linux endpoints.
@@ -98,35 +90,15 @@ Go · Bash · Docker · Compliance-as-Code
 
 ---
 
-  ### 🛰️ Threat Intelligence Pipeline & Wazuh Detection Engineering
+### 🛰️ [Threat Intelligence Pipeline & Wazuh Detection Engineering](https://github.com/ibfavas/threat-intel-pipeline)
+`Python` `SQLite` `Wazuh` `Docker` `AbuseIPDB` `VirusTotal` `OTX` `Detection Engineering`
 
-  `Python` `SQLite` `Wazuh` `Docker` `AbuseIPDB` `VirusTotal` `OTX` `Detection Engineering`
-
- - Built a CTI pipeline processing 50k-60k+ IOCs per run from multiple open-source feeds including URLhaus, Feodo Tracker, and AlienVault OTX.
- - Normalized and deduplicated 55k+ indicators with cross-source correlation, log-correlation use cases, and a unified schema design.
- - Designed a scoring system to prioritize 45k+ IOCs using recency, source trust, and corroboration.
- - Enriched high-confidence indicators with AbuseIPDB and VirusTotal and exported 1.8k+ IPs and 1.6k+ domains to Wazuh CDB lists.
- - Developed custom Wazuh SIEM rules mapped to MITRE ATT&CK (T1071) and validated detection through live alert generation.
- - Automated pipeline execution every 6 hours using systemd timers.
-
----
-
-### 🏰 Vulnerable Machine Development — Infinity Castle
-`Penetration Testing` `Hyper-V` `Burp Suite` `Hashcat` `Nmap` `Steganography`
-
-- Designed an intentionally vulnerable machine for **hands-on exploitation training**
-- Engineered web vulnerabilities requiring Burp Suite for traffic interception, proxying, and request manipulation
-- Integrated credential-recovery challenges involving **hash cracking and steganography**
-- Configured system misconfigurations and hidden entry points targeting recon, network scanning, and vertical escalation
-
----
-
-### 🔐 Virtualized Penetration Testing & Research Environment
-`Hyper-V` `Kali Linux` `Metasploitable 2` `Bash` `Nmap` `UFW`
-
-- Engineered a **multi-node virtual environment** using Hyper-V to simulate real-world attack and defense scenarios
-- Configured internal virtual switches and isolated subnets to prevent exploit traffic leakage
-- Hardened the research environment via UFW rules, SSH key-based authentication, and non-root user management
+- Built a CTI pipeline processing 50k-60k+ IOCs per run from multiple open-source feeds including URLhaus, Feodo Tracker, and AlienVault OTX.
+- Normalized and deduplicated 55k+ indicators with cross-source correlation, log-correlation use cases, and a unified schema design.
+- Designed a scoring system to prioritize 45k+ IOCs using recency, source trust, and corroboration.
+- Enriched high-confidence indicators with AbuseIPDB and VirusTotal and exported 1.8k+ IPs and 1.6k+ domains to Wazuh CDB lists.
+- Developed custom Wazuh SIEM rules mapped to MITRE ATT&CK (T1071) and validated detection through live alert generation.
+- Automated pipeline execution every 6 hours using systemd timers.
 
 ---
 

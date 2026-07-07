@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 ```
  ███████╗ █████╗ ██╗   ██╗ █████╗ ███████╗
  ██╔════╝██╔══██╗██║   ██║██╔══██╗██╔════╝
@@ -9,13 +9,15 @@
  ╚═╝     ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝
 ```
 
+
 ### `MOHAMMAD FAVAS S`
 **Cybersecurity Researcher · Bug Bounty Hunter · Certified SOC Analyst**
 
 `📍 Kerala, India` &nbsp;|&nbsp; `Web Exploitation` &nbsp;|&nbsp; `Threat Detection` &nbsp;|&nbsp; `System Hardening`
 
 ---
-
+</div>
+ 
 ## 👤 About Me
 
 - 🎯 Certified SOC Analyst (CSA) with hands-on experience in threat detection, incident response, and vulnerability research
@@ -23,6 +25,8 @@
 - 🛠️ Likes to build open-source security tooling and intentionally vulnerable lab environments
 - 🐧 Deep Linux background — from kernel auditing and CIS hardening to custom distro setups
 - 🧠 Approach: **Understand systems deeply → trace assumptions → break them → document the chain**
+  
+
 
 ---
 
@@ -104,8 +108,6 @@
 
 ## 🎯 Current Focus
 
-<div align="center">
-
 🔍 &nbsp;**Bug Bounty Research** — Structured methodology on open-source & self-hosted targets
 
 ⚡ &nbsp;**Exploit Chaining** — Multi-step, multi-component vulnerability sequences
@@ -113,8 +115,6 @@
 🧠 &nbsp;**API Security & Logic Flaws** — Auth bypasses, business logic, and trust boundary abuse
 
 🛡️ &nbsp;**Detection Engineering** — SOC workflows, alert tuning, and response optimization
-
-</div>
 
 ---
 
@@ -128,15 +128,11 @@
 
 ## 🧠 Certifications & Learning
 
-<div align="center">
-
 🛡️ &nbsp;**Certified SOC Analyst (CSA)** — EC-Council &nbsp;`Apr 2026`
 
 🔐 &nbsp;**Certified in Cybersecurity (CC)** — ISC2 &nbsp;`Feb 2026`
 
 🧪 &nbsp;**Docker Foundations Professional Certificate** — Docker & LinkedIn Learning &nbsp;`May 2026`
-
-</div>
 
 ---
 

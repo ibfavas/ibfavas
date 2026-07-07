@@ -56,6 +56,8 @@
 ## 💻 Open Source Tools
 
 ### 🚀 [Peelr: Lightweight JavaScript Scanner](https://github.com/ibfavas/peelr)
+`Go` `Static Analysis` `Reconnaissance` `JavaScript Triage` `Source-To-Sink` `CLI/Web-UI`
+
 - Built a lightweight JavaScript reconnaissance and static-analysis tool in Go for rapid triage of large client-side bundles and exposed attack surfaces.
 - Implemented source-to-sink taint-flow analysis to identify dangerous flows involving eval, innerHTML, location, and DOM-based injection sinks.
 - Detected 8+ categories of high-risk client-side artifacts including hardcoded secrets, GraphQL endpoints, exposed API paths, prototype pollution patterns, and XSS-prone sinks.
@@ -64,6 +66,8 @@
 ---
 
 ### ⚡ [NetPulse: Terminal Network Diagnostic HUD](https://github.com/ibfavas/netpulse)
+`Go` `Bubble Tea` `LipGloss` `Linux Networking` `ICMP/MTR` `Asynchronous`
+
 - Developed a zero-dependency, real-time network diagnostic telemetry HUD for Linux using Go and the Charmbracelet Bubble Tea framework.
 - Engineered a non-blocking asynchronous architecture using concurrent Goroutines to aggregate gateway, path diagnostic, interface I/O, and DNS matrix data with zero UI lag.
 - Implemented live Braille-based latency sparklines, automated low-level Linux packet parsing for interface throughput metrics, and unprivileged packet fallback routing.

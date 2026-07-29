@@ -2,8 +2,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./favas-ascii.svg?v=2" width="390" alt="Mohammad Favas S ASCII portrait" /></td>
-<td valign="top"><img src="./favas-info-card.svg?v=2" width="510" alt="Mohammad Favas S profile card" /></td>
+<td valign="top"><img src="./favas-ascii.svg?v=3" width="390" alt="Mohammad Favas S ASCII portrait" /></td>
+<td valign="top"><img src="./favas-info-card.svg?v=3" width="510" alt="Mohammad Favas S profile card" /></td>
 </tr>
 </table>
 

@@ -1,22 +1,34 @@
 <div align="center">
 
-### `MOHAMMAD FAVAS S`
+<table>
+<tr>
+<td valign="top"><img src="./favas-ascii.svg" width="390" alt="Mohammad Favas S ASCII portrait" /></td>
+<td valign="top"><img src="./favas-info-card.svg" width="510" alt="Mohammad Favas S profile card" /></td>
+</tr>
+</table>
+
+# MOHAMMAD FAVAS S
+
 **Cybersecurity Researcher · Bug Bounty Hunter · Certified SOC Analyst**
 
 `📍 Kerala, India` &nbsp;|&nbsp; `Web Exploitation` &nbsp;|&nbsp; `Threat Detection` &nbsp;|&nbsp; `System Hardening`
 
+[![GitHub](https://img.shields.io/badge/GitHub-ibfavas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibfavas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ibfavas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibfavas)
+[![X](https://img.shields.io/badge/X-@ibfavas-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ibfavas)
+[![Instagram](https://img.shields.io/badge/Instagram-@ibfavas-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ibfavas)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:favassalam88@gmail.com)
+
 ---
 </div>
- 
+
 ## 👤 About Me
 
-- 🎯 Certified SOC Analyst (CSA) with hands-on experience in threat detection, incident response, and vulnerability research
-- 🔬 Bug bounty researcher focused on **web application security** — SSRF, IDOR, RCE, logic flaws, and authentication bypasses
-- 🛠️ Likes to build open-source security tooling and intentionally vulnerable lab environments
-- 🐧 Deep Linux background — from kernel auditing and CIS hardening to custom distro setups
+- 🎯 **Certified SOC Analyst (CSA)** with hands-on experience in threat detection, incident response, and vulnerability research.
+- 🔬 Bug bounty researcher focused on **web application security** — SSRF, IDOR, RCE, logic flaws, and authentication bypasses.
+- 🛠️ Likes to build open-source security tooling and intentionally vulnerable lab environments.
+- 🐧 Deep Linux background — from kernel auditing and CIS hardening to custom distro setups.
 - 🧠 Approach: **Understand systems deeply → trace assumptions → break them → document the chain**
-  
-
 
 ---
 
@@ -59,7 +71,7 @@
 `Go` `Static Analysis` `Reconnaissance` `JavaScript Triage` `Source-To-Sink` `CLI/Web-UI`
 
 - Built a lightweight JavaScript reconnaissance and static-analysis tool in Go for rapid triage of large client-side bundles and exposed attack surfaces.
-- Implemented source-to-sink taint-flow analysis to identify dangerous flows involving eval, innerHTML, location, and DOM-based injection sinks.
+- Implemented source-to-sink taint-flow analysis to identify dangerous flows involving `eval`, `innerHTML`, `location`, and DOM-based injection sinks.
 - Detected 8+ categories of high-risk client-side artifacts including hardcoded secrets, GraphQL endpoints, exposed API paths, prototype pollution patterns, and XSS-prone sinks.
 - Developed CLI and local Web UI workflows supporting filtering, diffing, batch analysis, and multi-target scanning across 50+ URLs per session.
 
@@ -82,7 +94,7 @@
 
 - Remediated 100+ security misconfigurations, improving CIS compliance from 26% → 83% on Arch Linux endpoints.
 - Deployed a Docker-based Wazuh SIEM for endpoint monitoring, File Integrity Monitoring (FIM), security monitoring, and MITRE ATT&CK-aligned detection.
-- Hardened system attack surface via kernel module blacklisting, secure mount options (noexec, nosuid), and sysctl network protections.
+- Hardened system attack surface via kernel module blacklisting, secure mount options (`noexec`, `nosuid`), and sysctl network protections.
 - Implemented 22,000+ auditd rules to monitor system calls, privilege escalation, and kernel-level activity.
 - Enabled continuous Security Configuration Assessment (SCA), real-time alerting, and SOC-style triage for configuration drift and unauthorized changes.
 
@@ -102,13 +114,10 @@
 
 ## 🎯 Current Focus
 
-🔍 &nbsp;**Bug Bounty Research** — Structured methodology on open-source & self-hosted targets
-
-⚡ &nbsp;**Exploit Chaining** — Multi-step, multi-component vulnerability sequences
-
-🧠 &nbsp;**API Security & Logic Flaws** — Auth bypasses, business logic, and trust boundary abuse
-
-🛡️ &nbsp;**Detection Engineering** — SOC workflows, alert tuning, and response optimization
+🔍 &nbsp;**Bug Bounty Research** — Structured methodology on open-source & self-hosted targets  
+⚡ &nbsp;**Exploit Chaining** — Multi-step, multi-component vulnerability sequences  
+🧠 &nbsp;**API Security & Logic Flaws** — Auth bypasses, business logic, and trust boundary abuse  
+🛡️ &nbsp;**Detection Engineering** — SOC workflows, alert tuning, and response optimization  
 
 ---
 
@@ -122,11 +131,9 @@
 
 ## 🧠 Certifications & Learning
 
-🛡️ &nbsp;**Certified SOC Analyst (CSA)** — EC-Council &nbsp;`Apr 2026`
-
-🔐 &nbsp;**Certified in Cybersecurity (CC)** — ISC2 &nbsp;`Feb 2026`
-
-🧪 &nbsp;**Docker Foundations Professional Certificate** — Docker & LinkedIn Learning &nbsp;`May 2026`
+🛡️ &nbsp;**Certified SOC Analyst (CSA)** — EC-Council &nbsp;`Apr 2026`  
+🔐 &nbsp;**Certified in Cybersecurity (CC)** — ISC2 &nbsp;`Feb 2026`  
+🧪 &nbsp;**Docker Foundations Professional Certificate** — Docker & LinkedIn Learning &nbsp;`May 2026`  
 
 ---
 

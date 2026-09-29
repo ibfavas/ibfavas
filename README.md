@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td valign="top"><img src="./favas-ascii.svg?v=3" width="390" alt="Mohammad Favas S ASCII portrait" /></td>
-<td valign="top"><img src="./favas-info-card.svg?v=3" width="510" alt="Mohammad Favas S profile card" /></td>
+<td valign="top"><img src="./favas-info-card.svg?v=4" width="510" alt="Mohammad Favas S profile card" /></td>
 </tr>
 </table>
 
@@ -19,4 +19,14 @@ Cybersecurity Researcher · Bug Bounty Hunter · Certified SOC Analyst
 
 </div>
 
-<img src="./favas-heatmap.svg?v=1" width="860" alt="Mohammad Favas S GitHub contribution graph" />
+<img src="./favas-heatmap.svg?v=2" width="860" alt="Mohammad Favas S GitHub contribution graph" />
+
+<div align="center">
+
+### 🛠️ Featured
+
+[**Peelr**](https://github.com/ibfavas/peelr) — Go JS recon & triage scanner: secrets, XSS sinks, endpoints · dark security-console UI
+<br>
+[**SiteGuard**](https://github.com/ibfavas/siteguard) — website security monitor: 28 security checks + uptime alerts · Flask dashboard
+
+</div>

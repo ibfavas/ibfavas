@@ -40,7 +40,7 @@ ROWS = [
     ("kv", "Languages/OS", "Go, Python, Bash, C, Arch Linux, Docker"),
     ("gap",),
     ("sec", "Open Source & Security Labs"),
-    ("bul", "Peelr: Go JS Recon & Source-to-Sink Taint Flow Scanner"),
+    ("bul", "Peelr v3: Go JS recon & triage scanner"),
     ("bul", "NetPulse: Async Terminal Diagnostic Telemetry HUD"),
     ("bul", "Arch Wazuh Lab: Remediated 100+ misconfigs (26% -> 83% CIS)"),
     ("bul", "CTI Pipeline: Threat Intel engine processing 60k+ IOCs"),

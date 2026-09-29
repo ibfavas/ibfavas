@@ -41,8 +41,6 @@ Cybersecurity Researcher · Bug Bounty Hunter · Certified SOC Analyst
 - [**threat-intel-pipeline**](https://github.com/ibfavas/threat-intel-pipeline) — automated CTI pipeline: ingests, scores and enriches IOCs from open feeds straight into Wazuh
 - [**arch-linux-wazuh-detection-lab**](https://github.com/ibfavas/arch-linux-wazuh-detection-lab) — CIS hardening + SIEM instrumentation on Arch Linux with Wazuh & Auditd
 - [**SiteGuard**](https://github.com/ibfavas/siteguard) — website security monitor: 28 checks + uptime alerts · Flask dashboard
-- [**netpulse**](https://github.com/ibfavas/netpulse) — real-time network diagnostic HUD in Go: async triage TUI, DNS latency matrix
-- [**Web-Watchdog**](https://github.com/ibfavas/Web-Watchdog) — browser extension that alerts when sites grab passwords, API keys or tracking data
 
 ### 🩹 Remediation
 

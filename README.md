@@ -1,11 +1,6 @@
-<div align="center">
+<img src="./favas-engagement.svg?v=1" width="860" alt="Live engagement terminal: recon run against ibfavas" />
 
-<table>
-<tr>
-<td valign="top"><img src="./favas-ascii.svg?v=3" width="390" alt="Mohammad Favas S ASCII portrait" /></td>
-<td valign="top"><img src="./favas-info-card.svg?v=4" width="510" alt="Mohammad Favas S profile card" /></td>
-</tr>
-</table>
+<div align="center">
 
 # MOHAMMAD FAVAS S
 
@@ -19,14 +14,43 @@ Cybersecurity Researcher · Bug Bounty Hunter · Certified SOC Analyst
 
 </div>
 
+## 🔐 Penetration Test Report
+
+| | |
+|---|---|
+| **Target** | `ibfavas` |
+| **Engagement** | Public profile assessment |
+| **Tester** | You (yes, you — reading this) |
+| **Classification** | 🟢 UNCLASSIFIED — hireable |
+
+### 📋 Findings
+
+*Severity = impact on your security posture if he's on your team.*
+
+| ID | Finding | Severity | Status |
+|----|---------|----------|--------|
+| F-01 | Web exploitation — Burp Suite, Caido, ffuf, Nuclei | 🔴 Critical | ✅ Confirmed |
+| F-02 | Authentication bypass & business-logic flaws | 🔴 Critical | ✅ Confirmed |
+| F-03 | Threat detection — Wazuh SIEM, Splunk, auditd | 🟠 High | ✅ Confirmed |
+| F-04 | Builds his own tooling — Go, Python, Bash | 🟠 High | ✅ Confirmed |
+| F-05 | Documents findings like a professional | 🟡 Medium | ✅ Confirmed |
+
+### 💥 Proof of Concept
+
+- [**Peelr v3**](https://github.com/ibfavas/peelr) — Go JS recon & triage scanner: secrets, XSS sinks, endpoints · dark security-console UI
+- [**SiteGuard**](https://github.com/ibfavas/siteguard) — website security monitor: 28 checks + uptime alerts · Flask dashboard
+
+### 🩹 Remediation
+
+No patch available. Recommended action: **hire this tester**.
+
+<details>
+<summary>🔓 Declassify availability</summary>
+
+📍 Kerala, India (IST) · 🟢 Open to VAPT engagements & security roles
+
+</details>
+
+### 📊 Observed activity — last 12 months
+
 <img src="./favas-heatmap.svg?v=2" width="860" alt="Mohammad Favas S GitHub contribution graph" />
-
-<div align="center">
-
-### 🛠️ Featured
-
-[**Peelr**](https://github.com/ibfavas/peelr) — Go JS recon & triage scanner: secrets, XSS sinks, endpoints · dark security-console UI
-<br>
-[**SiteGuard**](https://github.com/ibfavas/siteguard) — website security monitor: 28 security checks + uptime alerts · Flask dashboard
-
-</div>
